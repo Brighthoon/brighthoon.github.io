@@ -12,7 +12,7 @@ f:I[10851,["/_next/static/chunks/0_c63hcwc3enc.js","/_next/static/chunks/0sik0xv
 :HL["/_next/static/chunks/0auqlcj0c613q.css","style"]
 :HL["/_next/static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"P":null,"c":["","blog","climbing-cam-readme"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","climbing-cam-readme","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0neevhl_o1ozu.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0auqlcj0c613q.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0_c63hcwc3enc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0sik0xvt4wbon.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/0g-04dh1fjanj.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/0u4varg-4btc1.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/099a.59-qgqp~.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/_next/static/chunks/0157uzs4fet1y.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full","children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0neevhl_o1ozu.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0auqlcj0c613q.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"3tbMZ7DU0xkauRrz9vo7o"}
+0:{"P":null,"c":["","blog","climbing-cam-readme"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","climbing-cam-readme","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0neevhl_o1ozu.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0auqlcj0c613q.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0_c63hcwc3enc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0sik0xvt4wbon.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/0g-04dh1fjanj.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/0u4varg-4btc1.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/099a.59-qgqp~.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/_next/static/chunks/0157uzs4fet1y.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full","children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0neevhl_o1ozu.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0auqlcj0c613q.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"ehtgeZTJCQO7uQCvEAAho"}
 10:[]
 a:"$W10"
 11:I[42908,["/_next/static/chunks/0_c63hcwc3enc.js","/_next/static/chunks/0sik0xvt4wbon.js","/_next/static/chunks/0g-04dh1fjanj.js","/_next/static/chunks/0u4varg-4btc1.js","/_next/static/chunks/099a.59-qgqp~.js","/_next/static/chunks/0157uzs4fet1y.js"],""]
@@ -25,7 +25,7 @@ a:"$W10"
 17:["$","ul","ul-0",{"children":["\n",["$","li","li-0",{"children":[["$","strong","strong-0",{"children":"Instance Segmentation 모델"}],": 홀드 탐지 전용. 초기에는 YOLO-World/SAM 등으로 자동 라벨링 후 커스텀 학습(Fine-tuning) 진행."]}],"\n",["$","li","li-1",{"children":[["$","strong","strong-0",{"children":"Pose Estimation 모델"}],": YOLO Pose 모델을 기본으로 하며, 암벽 등반 특유의 신체 가림 현상을 보정하기 위한 Tracking 알고리즘 포함."]}],"\n"]}]
 18:["$","h2","h2-2",{"children":"3. 데이터베이스 (DB) 설계"}]
 19:["$","p","p-1",{"children":["데이터 엔지니어링 효율성과 AI 모델 버전 관리를 위해 ",["$","strong","strong-0",{"children":"메타데이터 DB와 파일 시스템 테이블은 분리"}],"."]}]
-22:T812,from sqlalchemy import Column, String, DateTime, ForeignKey, Boolean
+22:Tad3,from sqlalchemy import Column, String, DateTime, ForeignKey, Boolean
 from sqlalchemy.orm import relationship
 from datetime import datetime
 
@@ -51,29 +51,42 @@ class ClimbingProblem(Base):
     updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
 
     # 1:N 관계 (하나의 영상에 여러 모델 추론 결과 존재 가능)
-    inference_results = relationship("InferenceResult", back_populates="problem")
+    hold_results = relationship("HoldSegResult", back_populates="problem")
+    pose_results = relationship("PoseKptResult", back_populates="problem")
 
-class InferenceResult(Base):
+class HoldSegResult(Base):
     """
-    AI 모델 버전별 추론 결과(JSON) 관리 테이블
+    홀드 세그멘테이션 추론 결과 관리 테이블
     """
-    __tablename__ = 'inference_results'
+    __tablename__ = 'hold_seg_results'
 
-    id = Column(String, primary_key=True)      # INF-0001
+    id = Column(String, primary_key=True)      # HLD-0001
     problem_id = Column(String, ForeignKey('climbing_problems.id'))
     
-    # 1. 모델 정보 및 파일 경로
-    model_version = Column(String)             # 예: 'v1.5-custom-hold'
-    hold_json_filename = Column(String)        # 예: 'holds_v1.5.json'
-    pose_json_filename = Column(String)        # 예: 'poses_v1.5.json'
-    
-    # 2. 상태 관리 (버전 관리의 핵심)
+    model_version = Column(String)             # 예: 'yolo-world-v1.0', 'custom-seg-v2.1'
+    data_format = Column(String)               # 예: 'yolo_polygon', 'coco_rle'
+    result_path = Column(String)               # 저장소 경로 (JSON 등)
     is_active = Column(Boolean, default=False) # 현재 대표 데이터 여부
     
-    # 3. 시간 정보
     created_at = Column(DateTime, default=datetime.utcnow)
+    problem = relationship("ClimbingProblem", back_populates="hold_results")
 
-    problem = relationship("ClimbingProblem", back_populates="inference_results")
+class PoseKptResult(Base):
+    """
+    포즈 키포인트 추론 결과 관리 테이블
+    """
+    __tablename__ = 'pose_kpt_results'
+
+    id = Column(String, primary_key=True)      # POS-0001
+    problem_id = Column(String, ForeignKey('climbing_problems.id'))
+    
+    model_version = Column(String)             # 예: 'yolo-pose-v8n', 'openpose-body25'
+    data_format = Column(String)               # 예: 'coco_17', 'body_25'
+    result_path = Column(String)               # 저장소 경로 (JSON 등)
+    is_active = Column(Boolean, default=False) # 현재 대표 데이터 여부
+    
+    created_at = Column(DateTime, default=datetime.utcnow)
+    problem = relationship("ClimbingProblem", back_populates="pose_results")
 1a:["$","pre","pre-0",{"children":["$","code","code-0",{"className":"language-python","children":"$22"}]}]
 1b:["$","h2","h2-3",{"children":"4. 경량화 및 배포"}]
 1c:["$","ul","ul-1",{"children":["\n",["$","li","li-0",{"children":"TensorRT + Triton inference server 사용 예정."}],"\n",["$","li","li-1",{"children":"등반 시작/끝 판단 모델만 모바일 환경에서 사용을 고려 할 예정, 나머지는 모두 서버에서 배포."}],"\n"]}]
