@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[96782,["/_next/static/chunks/0~31wucfxp_ob.js","/_next/static/chunks/08gl.dylu8fe2.js","/_next/static/chunks/16o2ns.w5cz2..js","/_next/static/chunks/0w__9n11q.jbe.js","/_next/static/chunks/099a.59-qgqp~.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"children":[["$","h1",null,{"children":"Test Link"}],["$","p",null,{"children":"This is a simple test link page."}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XUjVNuA1BPs5ZmvRn3XBi"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"children":[["$","h1",null,{"children":"Test Link"}],["$","p",null,{"children":"This is a simple test link page."}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"C51xNhNzGJjf3dvhA0LNQ"}
 4:null
